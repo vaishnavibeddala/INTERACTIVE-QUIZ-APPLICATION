@@ -58,7 +58,10 @@ What It Tests
 
 .General frontend knowledge
 
+*OUTPUT
 
+
+![Image](https://github.com/user-attachments/assets/9f9e576e-c7b2-40b8-97c6-2e15bcb18253)[](url)
 
 
 
