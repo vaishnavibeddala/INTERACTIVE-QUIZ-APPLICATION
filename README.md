@@ -14,10 +14,10 @@
 **This file contains a self-contained quiz application that runs entirely in the browser. It helps users test their frontend development knowledge through multiple-choice questions.
 
 Key Features:
->Welcome Screen:
+> Welcome Screen:
 A landing interface with a "Start Quiz" button to begin the quiz.
 
->Dynamic Quiz Interface:
+> Dynamic Quiz Interface:
 
 Displays one question at a time.
 
